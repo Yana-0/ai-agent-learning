@@ -1,0 +1,6 @@
+﻿ticket_id,ticket_desc,category
+TK-001,我提交了报销单，财务说看不到,流程
+TK-002,ERP 系统打不开,permission
+TK-003,申请开通 SAP 权限,权限
+TK-004,加班审批流卡住了,流程
+TK-005,BOM 变更后物料清单没更新,数据

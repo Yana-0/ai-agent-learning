@@ -1,0 +1,6 @@
+bom_id,material,status,owner
+BOM-001,螺丝 M3,待审核,张三
+BOM-002,钣金件 A12,已通过,李四
+BOM-003,电池 5000mAh,待审核,王五
+BOM-004,外壳 B 款,已驳回,赵六
+BOM-005,PCB 主板,待审核,钱七
